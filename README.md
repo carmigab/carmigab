@@ -1,11 +1,9 @@
 # Who am I
-👋 Hello, fellow coders! I'm Gabriele, a passionate master's student in Computer Science and Engineering at Politecnico di Milano, specializing in Artificial Intelligence. I worked part-time as a software engineer at Blue Reply for over a year while studying and I've been a Software Development Engineer Intern at AWS for 3 months during summer 2024.
+👋 Hello, fellow coders! I'm Gabriele, a passionate master's student in Computer Science and Engineering at Politecnico di Milano, specializing in Artificial Intelligence. I worked part-time as a software engineer at Blue Reply for over a year while studying, I've been a two times Software Development Engineer Intern at AWS during summer 2024 and autumn 2025 and also a Software Engineer Intern in Google in summer 2025.
 
-🚀 My journey involves a deep dive into the realms of AI, with a focus on crafting intelligent and innovative solutions. I find joy in coding and software development, always on the lookout for exciting projects to challenge my skills. Learning new technologies is my forte, and I thrive on putting my newfound knowledge into practice.
+🚀 I love to solve problems through software. I'm specialing in the field of AI because I found it really fascinating but I enjoy almost any field of Computer Science. Give me a problem and an IDE and I'm happy to dive deep on it.
 
-💻 When I'm not immersed in lines of code, you can find me exploring the latest developments in the tech world, brainstorming new project ideas, or simply enjoying the process of continuous learning. Let's connect, collaborate, and create amazing things together! 🌐✨
-
-🌟 Interests and Hobbies:
+🌟 When I'm not immersed in lines of code, you can find me enjoying one of my various hobbies.
 * 🥋 As a karate blackbelt and teacher, I am deeply passionate about martial arts. The discipline and focus I've gained from martial arts seamlessly integrate into my approach to problem-solving in the tech world.
 * 🎸🎷 Beyond the screen, I have a love for music. Whether it's strumming on my guitar or belting out tunes on the saxophone, I find creative inspiration in the harmonies and rhythms of music.
 
