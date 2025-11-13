@@ -16,6 +16,30 @@
   | **Language**        | Python                                               |
   | **URL**             | [link](https://github.com/gabricarr/ANN-project) |
 
+- ### Transformers model application to stock price prediction
+    | **Related Course**  | Advanced Deep Learning                         |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Course project |
+  | **Project Type**    | Group mandatory project                            |
+  | **Language**        | Python                                               |
+  | **URL**             | [link](https://github.com/gabricarr/Master-ANN) |
+
+- ### Modern and classical NLP techniques application
+    | **Related Course**  | Natural Language Processing                         |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Course project |
+  | **Project Type**    | Group mandatory project                            |
+  | **Language**        | Python                                               |
+  | **URL**             | [link](https://github.com/gabricarr/NLP) |
+
+- ### 3D dungeon puzzle game
+    | **Related Course**  | Videogame design and programming                         |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Course project |
+  | **Project Type**    | Group mandatory project                            |
+  | **Language**        | C#, Unity                                               |
+  | **URL**             | [link](https://github.com/carmigab/Rosetta---VDAP24-25) |
+
 - ### Analysis of CO2 emission data using Bayesian Learing techniques
     | **Related Course**  | Bayesian Learning                     |
   | ------------------- | -------------------------------------------------------- |
